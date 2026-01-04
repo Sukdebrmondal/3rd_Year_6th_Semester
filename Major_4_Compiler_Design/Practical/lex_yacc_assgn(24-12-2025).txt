@@ -1,0 +1,10 @@
+1. write a LEX program to identify a word and count total number of words in a string.
+2. write a LEX program to identify a fraction number.
+3. write a LEX program to identify a part of speech of a word.
+4. write a LEX program to identify vowel and constant in a given string.
+5. write a LEX program to identify even and odd numbers.
+6. write a YACC program to make a simple calculator.
+7. write a YACC program to evaluate a parenthesis expression.
+8. write a YACC program to convert binary to decimal.
+9. write a YACC program to identify palindrome.
+10. write a YACC program to accept a number starts with 11.
