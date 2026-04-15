@@ -20,6 +20,7 @@ int yywrap()
 
 int main()
 {
+    printf("Enter a Sentence: ");
     yylex();
     return 0;
 }

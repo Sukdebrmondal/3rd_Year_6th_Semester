@@ -21,8 +21,9 @@ int yywrap()
 
 int main()
 {
+    printf("Enter the String: ");
     yylex();
     return 0;
 }
 
-/* felx Count.l && gcc lex.yy.c && ./a.out
+/* flex Count.l && gcc lex.yy.c && ./a.out */

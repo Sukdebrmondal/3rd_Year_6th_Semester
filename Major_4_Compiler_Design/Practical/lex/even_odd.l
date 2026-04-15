@@ -14,6 +14,7 @@ int yywrap(){
 }
 
 int main(){
+    printf("Enter the Number: ");
     yylex();
     return 0;
 }

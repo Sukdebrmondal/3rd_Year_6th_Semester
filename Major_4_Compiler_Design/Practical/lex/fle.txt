@@ -1,0 +1,3 @@
+A compiler is a system software that a program written in a high-level language (like C, C++, Java) into machine language 
+(binary code) so that the computer can execute it.
+

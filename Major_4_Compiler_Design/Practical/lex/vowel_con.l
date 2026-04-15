@@ -15,6 +15,7 @@ int yywrap()
 }
 int main()
 {
+    printf("Enter a String: ");
     yylex();
     return 0;
 }
