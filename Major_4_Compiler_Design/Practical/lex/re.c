@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main() {
-    // take input from user and print the sum of two floating point numbers
+    
     float a = 10.5;
     float b = 20.3;
-    // calculate the sum of a and b and print the result
+    
     float sum;
     sum = a + b;
     printf("Sum = %f", sum);
